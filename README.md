@@ -8,10 +8,10 @@ Development so far focused on HTML, SCSS, and JS
 
 
 ###SCSS
-![image](https://raw.githubusercontent.com/smlombardi/today/master/screenshots/scss.png)
+![image](https://raw.githubusercontent.com/smlombardi/today/master/scss.png)
 
 ###HTML
-![image](https://raw.githubusercontent.com/smlombardi/today/master/screenshots/html.png)
+![image](https://raw.githubusercontent.com/smlombardi/today/master/html.png)
 
 ###JS
-![image](https://raw.githubusercontent.com/smlombardi/today/master/screenshots/js.png)
+![image](https://raw.githubusercontent.com/smlombardi/today/master/js.png)

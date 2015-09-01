@@ -64,6 +64,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
 .comment {
   color: @light-gray;
+  font-style: italic;
 }
 
 .entity {
@@ -252,6 +253,7 @@ atom-text-editor .search-results .marker.current-result .region,
     background-color: @gray;
     color: @syntax-text-color;
   }
+
 }
 
 .none {
@@ -304,6 +306,24 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @green;
   }
 }
+
+// css and scss
+.meta, .support.constant {
+  &.property-value {
+    color: #d7ae55;
+  }
+}
+.variable.scss, .variable.other.less  {
+  color: #a893bc;
+}
+.constant.numeric {
+    color: @light-orange;
+}
+
+.punctuation.definition.tag.begin.html, .punctuation.definition.tag.end.html {
+  color: @light-gray;
+}
+
 
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
